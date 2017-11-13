@@ -1,3 +1,6 @@
+/* Jessica Lam
+Sarah Lam*/
+
 import  java.util.Scanner;
 public class timeEnglish {
 
